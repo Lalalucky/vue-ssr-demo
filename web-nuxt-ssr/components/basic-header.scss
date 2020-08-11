@@ -1,0 +1,12 @@
+.basic-header {
+  width: 100%;
+  background: #fff;
+  .page-wrap {
+    width: 1200px;
+    margin: 0 auto;
+    padding: 15px 0;
+    display: grid;
+    grid-template-columns: 100px auto;
+    justify-items: start;
+  }
+}
